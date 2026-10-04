@@ -231,4 +231,4 @@ Avira Antivirus Pro is available as a full free version, providing all features 
 Protect your online experience today with Avira Antivirus Pro! Download now for safe and secure browsing.
 
 ---
-**Last updated:** 2026-10-03 23:28:59 UTC
+**Last updated:** 2026-10-04 03:59:13 UTC
